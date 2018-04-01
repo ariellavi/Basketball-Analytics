@@ -1,2 +1,5 @@
 # Basketball-Analytics
-Repo for all algorithms and scraping methods I have worked with thus far.
+
+Repo for all algorithms, scraping methods, and organization methods I have worked with thus far.
+
+All data is taken from: https://www.basketball-reference.com/
