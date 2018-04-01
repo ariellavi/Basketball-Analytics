@@ -1,3 +1,0 @@
-#Linear Classifier
-
-The code above ...
