@@ -10,3 +10,9 @@ W is a 2 x d matrix, with each row containing the weights w for the respective c
 When training, each game vector has an associated class label 1 or 0, for a home team victory or loss, respectively.
 
 To optimize W, we used least squares minimization. That is, we minimize the sum of (
+
+# Least Squares in Matrix Form
+
+W_2 
+
+
