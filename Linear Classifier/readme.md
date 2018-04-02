@@ -12,8 +12,6 @@ When training, each game vector has an associated class label 1 or 0, for a home
 To optimize W, we used least squares minimization. That is, we minimize the sum of (
 
 # Least Squares in Matrix Form
-
-*W_2
-sdf
+_blah
 
 
