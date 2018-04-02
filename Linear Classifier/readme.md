@@ -13,6 +13,7 @@ To optimize W, we used least squares minimization. That is, we minimize the sum 
 
 # Least Squares in Matrix Form
 
-W_2 
+*W_2
+sdf
 
 
